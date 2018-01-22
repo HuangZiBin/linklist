@@ -12,4 +12,4 @@ output_dir:
 	mkdir output_dir
 
 clean:
-	rm output_dir -rf; rm *.o
+	-rm output_dir -rf; rm *.o

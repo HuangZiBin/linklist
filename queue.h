@@ -7,7 +7,7 @@
 
 #ifndef H_QUEUE_H
 #define H_QUEUE_H
-#include "LinkList.h"
+#include "linklist.h"
 #include <pthread.h>
 struct queue {
 	struct LinkList list;

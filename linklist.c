@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <memory.h>
-#include "LinkList.h"
+#include "linklist.h"
 #include "errno.h"
 
 
