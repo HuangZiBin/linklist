@@ -1,2 +1,2 @@
 # linklist
-encapsulation of linklist, simple and easy to use.
+encapsulation of linklist and its derivative(queue for example), simple and easy to use.
